@@ -1,0 +1,8 @@
+name: Enchanted
+main: io.github.samirl.enchanted.Enchanted
+version: 1.0
+author: sam4215
+commands:
+  overenchant:
+    description: Used for enchanting objects. Enchants object in player's main hand.
+    usage: /overenchant <list|enchantment> <level|remove>
